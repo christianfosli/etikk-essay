@@ -1,0 +1,19 @@
+name: Should have enough words
+
+on: push
+
+jobs:
+  count_words:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Check if there is enough words
+        run: |
+          WORDS="$(wc -w < essay.md)"
+          if [[ $WORDS < 5000 ]]
+          then
+              printf "Not enough words: %s\n", $WORDS
+              exit 1
+          fi
+          printf "Success! %s words\n", $WORDS
+        shell: bash

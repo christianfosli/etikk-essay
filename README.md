@@ -1,6 +1,8 @@
 Etikk Essay
 ===========
 
+![Should have enough words](https://github.com/christianfosli/etikk-essay/workflows/Should%20have%20enough%20words/badge.svg)
+
 > ## Generelt om essayet
 >
 > Du skal skrive et essay om et selvvalgt tema innenfor enten vitenskapsteori eller etikk. Etter siste forelesning vil du få vite hvilke tema du skal skrive om (det blir avgjort ved trekning). Poenget med å kunne velge tema selv, er det det er lettere å skrive godt om noe en liker å skrive om fordi man er – forhåpentligvis – litt interessert i temaet.

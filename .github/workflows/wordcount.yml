@@ -10,7 +10,7 @@ jobs:
       - name: Check if there is enough words
         run: |
           WORDS="$(wc -w < essay.md)"
-          if [[ $WORDS < 5000 ]]
+          if (( $WORDS < 5000 ))
           then
               printf "Not enough words: %s\n", $WORDS
               exit 1

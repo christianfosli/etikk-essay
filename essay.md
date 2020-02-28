@@ -38,7 +38,9 @@ I andre land og kulturer er dette uhørt.
 
 I Kina bruker myndighetene algoritmebasert overvåkning,
 hvor innbyggerne får en score basert på hvordan de oppfører seg (Skybakmoen,
-2018). Skybakmoen forklarer: "Selve systemet kan bygge på at myndighetene henter
+2018). Denne scoren er med på å bestemme hvorvidt man får ta opp lån, reise utenlands,
+bli ansatt i enkelte yrker, eller kjøpe togbillett (Skybakmoen, 2018).
+Skybakmoen forklarer: "Selve systemet kan bygge på at myndighetene henter
 data direkte fra ulike teknologiselskaper og kombinerer disse med informasjonen
 som finnes i offentlige registre" (Skybakmoen, 2018).
 Kinesiske teknologiselskaper er pliktige å levere informasjon til myndighetene

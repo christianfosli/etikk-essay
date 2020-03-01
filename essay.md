@@ -111,7 +111,7 @@ et totalitært system der ingen individuelle rettigheter finnes (dette var
 skyggen av andre verdenskrig, 1984 var rundt 40 år frem i tid).
 Orwell så for seg _telescreen's_ plassert i alle hus, kafeer, arbeidsplasser,
 og til og med toaletter.
-En _telescreen_ er en TV som overvåker det som er foran den.
+En _telescreen_ er en TV som også overvåker det som er foran den.
 Staten har hemmelige politi kalt _thought police_ som overvåker dataen som samles
 inn fra _telescreen's_, og arresterer individer som blir tatt for å ha andre
 meninger en landets eneste politiske party. Såkalt _thought crime_

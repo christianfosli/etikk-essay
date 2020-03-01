@@ -104,7 +104,18 @@ Også her bør vi stille spørsmål rundt etikk og moral.
 På en side kan slik informasjon hjelpe politi-arbeid og redusere kriminalitet.
 På en annen side går det på bekostning av individers privatliv og frihet.
 
-TODO:: 1984 propaganda
+Boken 1984 av George Orwell viser, på mange måter, hvor galt det kan gå om
+vi ikke setter noen etiske begrensninger til bruk av personlig data for statens
+formål. Når Orwell skrev boken, skrev han om en dystopisk _framtid_ med
+et totalitært system der ingen individuelle rettigheter finnes (dette var
+skyggen av andre verdenskrig, 1984 var rundt 40 år frem i tid).
+Orwell så for seg _telescreen's_ plassert i alle hus, kafeer, arbeidsplasser,
+og til og med toaletter.
+En _telescreen_ er en TV som overvåker det som er foran den.
+Staten har hemmelige politi kalt _thought police_ som overvåker dataen som samles
+inn fra _telescreen's_, og arresterer individer som blir tatt for å ha andre
+meninger en landets eneste politiske party. Såkalt _thought crime_
+(Wikipedia, n.d.-b).
 
 ### Kommersiell bruk
 
@@ -128,6 +139,9 @@ TODO:: 1984 propaganda
   [https://www.wsj.com/articles/chinas-tech-giants-have-a-second-job-helping-the-government-see-everything-1512056284](
   https://www.wsj.com/articles/chinas-tech-giants-have-a-second-job-helping-the-government-see-everything-1512056284).
 
-* Wikipedia. (n.d.-a) Mass surveillance in the United Kingdom.
+* Wikipedia. (n.d.-a). Mass surveillance in the United Kingdom.
   Hentet fra [https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_Kingdom](
   https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_Kingdom)
+
+* Wikipedia (n.d.-b). Thought Police. Hentet fra [https://en.wikipedia.org/wiki/Thought_Police](
+  https://en.wikipedia.org/wiki/Thought_Police)

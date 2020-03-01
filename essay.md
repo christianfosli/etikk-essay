@@ -197,8 +197,8 @@ bilde.
   https://www.dporganizer.com/who-owns-personal-data/).
 
 * Jonas Skybakmoen. (2018, 20 februar). De sju drøyeste tiltakene: Slik overvåker Kina egne innbyggere i 2018.
-  _filternyheter_. Hentet fra [http://kildekompasset.no/referansestiler/apa-6th.aspx](
-  http://kildekompasset.no/referansestiler/apa-6th.aspx).
+  _filternyheter_. Hentet fra [https://filternyheter.no/de-sju-droyeste-tiltakene-slik-overvaker-kina-egne-innbyggere-i-2018/](
+  https://filternyheter.no/de-sju-droyeste-tiltakene-slik-overvaker-kina-egne-innbyggere-i-2018/).
 
 * Liza Lin and Josh Chin. (2017, 30 november). China’s Tech Giants Have a Second Job:
   Helping Beijing Spy on Its People. _The Wall Street Journal_. Hentet fra

@@ -25,9 +25,9 @@ og i forskjellige systemer?
 I de fleste tilfeller er ikke dette noe det finnes ett svart-på-hvitt svar på.
 Tankene våre blir farget av kulturen vår, samt lokale lover og regler.
 Meningene mine omkring dette vil naturligvis være forskjellige fra hvordan
-de fleste tenker i Asia, eller f.eks Nord-Korea.
+de fleste tenker i Asia, for eksempel Nord-Korea.
 
-EU's GDPR gir oss (omtalt som "data subject") rettigheter til
+EU's _GDPR_ (General Data Protection Regulation) gir oss (omtalt som "data subject") rettigheter til
 å bestemme over vår personlige data, men GDPR oppgir ikke eksplisitt om dataen
 eies av oss ("data subject") eller selskapet som samler og er ansvarlig for dataen ("data
 controller") (DPOrganizer, n.d.). Allikevel skaper EU's personverntiltak en
@@ -131,6 +131,8 @@ være realistisk.
 Allikevel vekker den mange tanker rundt statlig overvåkning og totalitarisme.
 
 ### Kommersiell bruk
+
+
 
 ## Kilder
 

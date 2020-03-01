@@ -130,7 +130,7 @@ Boken 1984 er en dyster spådom. Men, det er skjønnlitteratur, og trenger ikke 
 være realistisk.
 Allikevel vekker den mange tanker rundt statlig overvåkning og totalitarisme.
 
-### Kommersiell verdi
+### Kommersiell bruk og verdi
 
 > For most companies, their data is their single biggest asset.
 > (MIT Technology Review, 2016, s.1)
@@ -153,11 +153,33 @@ Dette stiller spørsmål til hvilken type sikkerhet vi, brukere, kan forvente at
 nettsidene hvor vi etterlater oss personlig informasjon har på plass.
 Dataen har nemlig ikke kun en stor verdi for cyberkriminelle, men også for
 selskapet som samler dataen.
-Uten påloggingsinformasjon, brukerinformasjon og betalingsinformasjon
+Uten data som påloggingsinformasjon, brukerinformasjon og betalingsinformasjon
 ville ikke den online billettbutikken kunne levert samme verdi til sine kunder.
-Dermed er det sjeldent en bra løsning å ikke lagre personlig data,
-men fokuset bør heller være på å gjøre det på riktig, og på en sikker, -måte.
+Dette er noe selskaper som AirBnb, Facebook og Netflix har innsett, mens de
+endret konkurransevilkårene i sine bransjer (MIT Technology Review, 2016, s.2).
+Det er det sjeldent en bra løsning å ikke lagre noe personlig data.
+Da vil ikke selskapet kunne forbli konkurransedyktig.
+Fokuset bør heller være på å gjøre det på riktig,
+og på en sikker, -måte.
 
+Bruk av data gjør det mulig for selskaper å tilby brukerne en personlig
+opplevelse.
+Netflix viser meg topp filmer og serier både i landet jeg er fra,
+og spesifikt for meg.
+Facebook viser meg de innleggende jeg trolig er mest interessert i øverst,
+blandet med sponsede innlegg til produkter eller konferanser som passer mine
+interesser.
+Google tilpasser søkeresultatene i forhold til hvem som søker,
+og øverst i resultatene finner jeg ofte en annonse som både er relatert til det
+jeg søkte på, og som er relevant _for meg_.
+
+Slike personlige brukeropplevelser har helt klart en stor verdi.
+Det er vanskelig å putte en pris på gode, personlige brukeropplevelser.
+Jeg føler aksjekursen til Alphabet, selskapet bak Google tegner ett riktig
+bilde.
+
+![Alphabet stocks](screenshot_alphabet_stocks.png)
+(Bloomberg, 2020)
 
 ### Datadrevet beslutningstaking
 
@@ -193,3 +215,6 @@ men fokuset bør heller være på å gjøre det på riktig, og på en sikker, -m
 * MIT Technology Review. (2016). The Rise of Data Capital (quote from pdf).
   Hentet fra [http://files.technologyreview.com/whitepapers/MIT_Oracle+Report-The_Rise_of_Data_Capital.pdf](
   http://files.technologyreview.com/whitepapers/MIT_Oracle+Report-The_Rise_of_Data_Capital.pdf)
+
+* Bloomberg. (2020, mars). Skjermbilde fra
+  [https://www.bloomberg.com/quote/GOOGL:US](https://www.bloomberg.com/quote/GOOGL:US)

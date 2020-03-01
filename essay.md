@@ -1,8 +1,8 @@
 Data er den nye oljen, men hva med etikken?
 ===========================================
 
-> "The words most valuable resource is no longer oil,
-> but data"
+> The words most valuable resource is no longer oil,
+> but data
 (The Economist, 2017)
 
 Data har en utrolig verdi, men det bringer også mange nye etiske
@@ -130,9 +130,38 @@ Boken 1984 er en dyster spådom. Men, det er skjønnlitteratur, og trenger ikke 
 være realistisk.
 Allikevel vekker den mange tanker rundt statlig overvåkning og totalitarisme.
 
-### Kommersiell bruk
+### Kommersiell verdi
+
+> For most companies, their data is their single biggest asset.
+> (MIT Technology Review, 2016, s.1)
+
+I 2013 angrep en gruppe cyberkriminelle ett av verdens største online
+billettbutikker.
+De stjal ikke kredittkortinformasjon, men heller påloggingsinfo til
+gyldige brukerkontoer.
+De kjøpte så billetter til sportsarrangementer og konserter ved å bruke
+de stjålne brukerkontoene, og solgte billettene videre for kontanter.
+(MIT Technology Review, 2016, s.2).
+
+Denne typen internet-tyveri er ikke uvanlig,
+og digitale tyver er ofte vanskelig å merke,
+da de gjerne skjuler seg bak gyldige brukerkontoer de har stjålet tilgang til.
+I 2015 ble 13.1 millioner mennesker i USA berørt av identitetstyveri
+(MIT Technology Review, 2016, s.2).
+
+Dette stiller spørsmål til hvilken type sikkerhet vi, brukere, kan forvente att
+nettsidene hvor vi etterlater oss personlig informasjon har på plass.
+Dataen har nemlig ikke kun en stor verdi for cyberkriminelle, men også for
+selskapet som samler dataen.
+Uten påloggingsinformasjon, brukerinformasjon og betalingsinformasjon
+ville ikke den online billettbutikken kunne levert samme verdi til sine kunder.
+Dermed er det sjeldent en bra løsning å ikke lagre personlig data,
+men fokuset bør heller være på å gjøre det på riktig, og på en sikker, -måte.
 
 
+### Datadrevet beslutningstaking
+
+???
 
 ## Kilder
 
@@ -160,3 +189,7 @@ Allikevel vekker den mange tanker rundt statlig overvåkning og totalitarisme.
 
 * Wikipedia (n.d.-b). Thought Police. Hentet fra [https://en.wikipedia.org/wiki/Thought_Police](
   https://en.wikipedia.org/wiki/Thought_Police)
+
+* MIT Technology Review. (2016). The Rise of Data Capital (quote from pdf).
+  Hentet fra [http://files.technologyreview.com/whitepapers/MIT_Oracle+Report-The_Rise_of_Data_Capital.pdf](
+  http://files.technologyreview.com/whitepapers/MIT_Oracle+Report-The_Rise_of_Data_Capital.pdf)

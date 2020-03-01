@@ -109,13 +109,26 @@ vi ikke setter noen etiske begrensninger til bruk av personlig data for statens
 formål. Når Orwell skrev boken, skrev han om en dystopisk _framtid_ med
 et totalitært system der ingen individuelle rettigheter finnes (dette var
 skyggen av andre verdenskrig, 1984 var rundt 40 år frem i tid).
+
 Orwell så for seg _telescreen's_ plassert i alle hus, kafeer, arbeidsplasser,
 og til og med toaletter.
 En _telescreen_ er en TV som også overvåker det som er foran den.
 Staten har hemmelige politi kalt _thought police_ som overvåker dataen som samles
 inn fra _telescreen's_, og arresterer individer som blir tatt for å ha andre
-meninger en landets eneste politiske party. Såkalt _thought crime_
-(Wikipedia, n.d.-b).
+meninger en landets eneste politiske party (Wikipedia, n.d.-b).
+Såkalt _thought crime_.
+
+Dersom noen ble tatt for _thought crime_ ble det som om personen aldri hadde eksistert.
+Personen ble arrestert, så ble alle referanser til personen
+(fra avisartikler, bøker, o.l.) fjernet.
+Personen vil nå være en _ikke-person_ ("unperson").
+Alle som har kjent noen som ble tatt for _thought crime_ måtte glemme personen,
+hvis ikke ville de også praktisere _thought crime_, ved å tenke på en
+_ikke-person_ (Wikipedia, n.d.-b).
+
+Boken 1984 er en dyster spådom. Men, det er skjønnlitteratur, og trenger ikke å
+være realistisk.
+Allikevel vekker den mange tanker rundt statlig overvåkning og totalitarisme.
 
 ### Kommersiell bruk
 

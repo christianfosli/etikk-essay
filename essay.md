@@ -46,6 +46,59 @@ som finnes i offentlige registre" (Skybakmoen, 2018).
 Kinesiske teknologiselskaper er pliktige å levere informasjon til myndighetene
 (Lin, Chin, 2017). Dette gjør det mulig for myndighetene å overvåke ting som forbruksvaner og
 ordvekslinger mellom venner på individnivå.
+Statlig overvåking praktiseres også i vestlige land,
+dogg ikke på samme måte som i Kina.
+
+Statlig overvåking er en interessant problemstilling.
+For enkelhets skyld, la oss ta for oss sosiale medier nettsiden Facebook.
+På Facebook kommuniserer vi sammen med venner og bekjente.
+Vi sender også private melding til hverandre på Facebook Messenger.
+Det vil være naivt å tro at ingen private meldinger på Facebook Messenger
+innrømmer kriminelle handlinger, eller planlegging av disse.
+_Burde politiet fått fri tilgang til private meldinger på Facebook Messenger?_
+
+Fri tilgang på private Facebook meldinger vil kunne forebygge kriminelle
+handlinger og terror.
+Ved å bruke dagens teknologi kunne vi enkelt laget ett system hvor bruk av
+misstenksomme ord i samtaler trigger en varsel til politiet.
+Politiet kunne så sjekket samtalen og iverksatt handlinger tidlig.
+Med fremskritt innen machine-learning og AI kunne vi utarbeidet
+algoritmer til intelligent oppdagelse av misstenksomme samtaler.
+Slike samarbeid mellom teknologi-giganter og myndigheter ville kunne spart oss
+både menneskeliv og penger.
+Men, det ville vert på bekostning av vårt privatliv.
+
+Enten jeg sender en privat melding til kona,
+skriver noe morsomt i gruppechatten med vennegjengen,
+legger til en reaksjon på ett litt shady meme jeg fikk fra han ene
+kollegaen på jobben som har litt-på-kanten humorsmak,
+eller hva det måtte være;
+uansett hvilken form for melding eller innhold,
+svarer jeg med den (muligens innbilte?) komfort at meldingen jeg sender kun vil
+sees av samtalens medlemmer.
+Dersom myndighetene ble gitt fri tilgang til våre "private" meldinger
+ville det krenket vår frihet.
+Jeg kunne ikke lenger sendt meldinger med den komfort om at den skulle sees av
+meldingens oppgitte mottaker.
+Jeg måtte også tenkt over hvorvidt meldingen kan tolkes som ett brudd på lover,
+regler, normer, eller om den kan gi informasjon jeg vil holde privat.
+
+Dette gjelder ikke bare Facebook Messenger, men alle mulige applikasjoner hvor
+vi kommuniserer med hverandre. Også telefonsamtaler og SMS.
+Det trenger heller ikke være slik at myndighetene enten har fri tilgang, eller
+ingen tilgang.
+En fin mellomveg kan være at politiet kan søke til teknologiselskaper om
+informasjon om enkelte individer i en liten tidsperiode knyttet til en relevant
+straffesak.
+
+I tillegg til å få informasjon fra teknologiselskaper kan myndighetene også
+samle data selv. Kombinasjonen av overvåkingskameraer, mikrofoner og
+ansikts-gjenkjenning kan gi utrolig mye data.
+I 2011 var det ca 52000 statlig-eide overvåkningskameraer i Storbritannia og
+Nord-Irland (Wikipedia, n.d.-a).
+Også her bør vi stille spørsmål rundt etikk og moral.
+På en side kan slik informasjon hjelpe politi-arbeid og redusere kriminalitet.
+På en annen side går det på bekostning av individers privatliv og frihet.
 
 ## Kilder
 
@@ -67,3 +120,6 @@ ordvekslinger mellom venner på individnivå.
   [https://www.wsj.com/articles/chinas-tech-giants-have-a-second-job-helping-the-government-see-everything-1512056284](
   https://www.wsj.com/articles/chinas-tech-giants-have-a-second-job-helping-the-government-see-everything-1512056284).
 
+* Wikipedia. (n.d.-a) Mass surveillance in the United Kingdom.
+  Hentet fra [https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_Kingdom](
+  https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_Kingdom)

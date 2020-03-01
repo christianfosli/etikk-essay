@@ -16,6 +16,8 @@ Hva med statlig overvåkning?
 I denne teksten skal vi se nærmere på etiske problemstillinger rundt bruk av
 personlig data.
 
+### Eierskap
+
 For å se nærmere på hva som er riktig bruk av personlig data er det
 nyttig å drøfte litt om eierskap.
 For hvem eier egentlig vår personlig data som vi etterlater oss på nettsider
@@ -35,6 +37,8 @@ GDPR gir oss, europeere, rett til å eksportere og slette all vår personlige da
 fra nettsider og systemer, ved å spørre selskapet som er ansvarlig for dataen om
 dette.
 I andre land og kulturer er dette uhørt.
+
+### Statlig overvåkning
 
 I Kina bruker myndighetene algoritmebasert overvåkning,
 hvor innbyggerne får en score basert på hvordan de oppfører seg (Skybakmoen,
@@ -99,6 +103,10 @@ Nord-Irland (Wikipedia, n.d.-a).
 Også her bør vi stille spørsmål rundt etikk og moral.
 På en side kan slik informasjon hjelpe politi-arbeid og redusere kriminalitet.
 På en annen side går det på bekostning av individers privatliv og frihet.
+
+TODO:: 1984 propaganda
+
+### Kommersiell bruk
 
 ## Kilder
 

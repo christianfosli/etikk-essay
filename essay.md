@@ -181,6 +181,52 @@ bilde.
 ![Alphabet stocks](screenshot_alphabet_stocks.png)
 (Bloomberg, 2020)
 
+Ok, vi har sett at personlig data kan brukes til å skape fantastiske personlige
+brukeropplevelser. Bra! Fint! Flott!
+_Men, er alt bare bra?_
+Facebook har fått mye pes for å spre politisk feilinformasjon.
+I 2016 hyrte Trump's president kampanje konsulenter fra Cambridge Analytica som
+utnyttet Facebook-brukernes private data for å påvirke stemmen deres i valgkampen
+(Ghaffary, 2020).
+
+Cambridge Analytica saken har blitt omtalt i media som en _stor politisk skandale_.
+Slike hendelser vekker en del spørsmål rundt teknologiselskapers makt,
+og om deres bruk at personlig data burde reguleres.
+
+_Men hvor mange brukere gjaldt dette? Og hvordan klarte Cambridge Analytica å
+utnytte dataen deres?_ tenker du kanskje.
+Det har nemlig Wikipedia svaret på.
+Det begynte nemlig ganske så uskyldig;
+Aleksandr Kogan, en dataforsker på Cambridge University utviklet en applikasjon
+kalt "This Is Your Daily Life" (noen steder skrevet "thisisyourdailylife")
+(Wikipedia, 2018).
+Kogan gav applikasjonen til Cambridge Analytica, som ordnet med en
+spørreundersøkelse for akademisk bruk som flere hundre-tusen Facebook brukere
+takket ja til å delta i (Wikipedia, 2018).
+So far so good, disse hundre-tusen brukerne hadde selv gitt samtykke til å
+dele sin data til applikasjonen.
+Her kommer problemet:
+Facebook's design gjorde det mulig for applikasjonen å hente inn personlig data,
+ikke bare til de som hadde takket ja til spørreundersøkelsen,
+men også til alle personer i disse brukernes sosiale (Facebook) nettverk
+(Wikipedia, 2018).
+Slik fikk Cambridge Analytica personlig data til _millioner_ av Facebook
+brukere (Wikipedia, 2018).
+
+Nå ser jeg forresten at jeg er på grensen til å ha for lang kildeliste.
+Den skulle nemlig være på maks 5% av teksten, circa en halv side.
+Dermed blir resten av teksten litt mer mine meninger,
+og litt mindre gjenfortellinger/ideer/historier.
+Det er forsåvidt rom for det også i ett essay.
+De er jo typisk både saklige, og kan inneholde en del personlige meninger.
+
+Tilbake til Fake-News på Facebook.
+Siden Cambridge Analytica skandalen har Facebook iverksatt tiltak for å unngå
+flere lignende skandaler.
+De bruker nemlig tredjeparts fakta sjekker,
+for å unngå virale politiske fake-news posts (Ghaffary, 2020).
+
+
 ### Datadrevet beslutningstaking
 
 ???
@@ -216,5 +262,13 @@ bilde.
   Hentet fra [http://files.technologyreview.com/whitepapers/MIT_Oracle+Report-The_Rise_of_Data_Capital.pdf](
   http://files.technologyreview.com/whitepapers/MIT_Oracle+Report-The_Rise_of_Data_Capital.pdf)
 
-* Bloomberg. (2020, mars). Skjermbilde fra
+* Bloomberg. (2020, 1 mars). Skjermbilde fra
   [https://www.bloomberg.com/quote/GOOGL:US](https://www.bloomberg.com/quote/GOOGL:US)
+
+* Shirin Ghaffary. (2020, 24 februar). A senator is demanding to know how
+  Facebook will stop misinformation from spreading online. _Vox_.
+  Hentet fra [https://www.vox.com/recode/2020/2/24/21147428/facebook-2020-elections-misinformation-senator-michael-bennet-letter-zuckerberg](
+  https://www.vox.com/recode/2020/2/24/21147428/facebook-2020-elections-misinformation-senator-michael-bennet-letter-zuckerberg)
+
+* Wikipedia. (2018). Facebook-Cambridge Analytica Data Scandal.
+  Hentet fra [https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)

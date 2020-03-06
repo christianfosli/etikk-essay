@@ -3,6 +3,7 @@ Data er den nye oljen, men hva med etikken?
 
 > The words most valuable resource is no longer oil,
 > but data
+
 (The Economist, 2017)
 
 Data har en utrolig verdi, men det bringer også mange nye etiske
@@ -133,7 +134,8 @@ Allikevel vekker den mange tanker rundt statlig overvåkning og totalitarisme.
 ### Kommersiell bruk og verdi
 
 > For most companies, their data is their single biggest asset.
-> (MIT Technology Review, 2016, s.1)
+
+(MIT Technology Review, 2016, s.1)
 
 I 2013 angrep en gruppe cyberkriminelle ett av verdens største online
 billettbutikker.

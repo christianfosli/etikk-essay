@@ -215,6 +215,14 @@ men også til alle personer i disse brukernes sosiale (Facebook) nettverk
 Slik fikk Cambridge Analytica personlig data til _millioner_ av Facebook
 brukere (Wikipedia, 2018).
 
+Cambridge Analytica hadde nå detaljert personlig data til millioner av Facebook
+profiler (Wikipedia, 2018).
+For en politisk kampanje kunne de bruke denne dataen til å foreslå hvilke type
+reklamer ville være mest effektive for en bestemt person i ett bestemt området
+(Wikipedia, 2018).
+Og flesteparten av personene som fikk dataen sin utnyttet hadde aldri
+gitt samtykke til det!
+
 Nå ser jeg forresten at jeg er på grensen til å ha for lang kildeliste.
 Den skulle nemlig være på maks 5% av teksten, circa en halv side.
 Dermed blir resten av teksten litt mer mine meninger,
@@ -227,7 +235,18 @@ Siden Cambridge Analytica skandalen har Facebook iverksatt tiltak for å unngå
 flere lignende skandaler.
 De bruker nemlig tredjeparts fakta sjekker,
 for å unngå virale politiske fake-news posts (Ghaffary, 2020).
+De har også valgt å implementere EU's GDPR reglemang også utenfor Europa
+(Wikipedia, 2018).
+Dette gir brukerne mye mer informasjon om hvilken personlig data selskapet
+samler, hvordan denne brukes, og lar brukerne slette og/eller eksportere dataen
+sin.
 
+Nå har vi sett litt på hvordan personlig data kan brukes til å skape verdi for
+brukerne i form av personlig brukeropplevelse og løsninger tilpasset til meg.
+Og vi har sett ett par eksempler på hvordan personlig data kan havne på avveie
+og/eller bli missbrukt.
+
+Dersom selskaper både {{ TODO: skape verdi + sikkerhet = GOODSTUFF }}
 
 ### Datadrevet beslutningstaking
 

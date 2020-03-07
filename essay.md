@@ -17,6 +17,9 @@ Hva med statlig overvåkning?
 I denne teksten skal vi se nærmere på etiske problemstillinger rundt bruk av
 personlig data.
 
+![XKCD #1269 Opinions on internet privacy](https://imgs.xkcd.com/comics/privacy_opinions.png)
+(XKCD, n.d.). Vi har mange ulike syn på personvern på internet.
+
 ### Eierskap
 
 For å se nærmere på hva som er riktig bruk av personlig data er det
@@ -131,7 +134,7 @@ Boken 1984 er en dyster spådom. Men, det er skjønnlitteratur, og trenger ikke 
 være realistisk.
 Allikevel vekker den mange tanker rundt statlig overvåkning og totalitarisme.
 
-### Kommersiell bruk og verdi
+### Kommersiell bruk, verdi og angrep
 
 > For most companies, their data is their single biggest asset.
 
@@ -245,10 +248,66 @@ Nå har vi sett litt på hvordan personlig data kan brukes til å skape verdi fo
 brukerne i form av personlig brukeropplevelse og løsninger tilpasset til meg.
 Og vi har sett ett par eksempler på hvordan personlig data kan havne på avveie
 og/eller bli missbrukt.
+Det er altså nyttig for selskapene med personlig data,
+men det burde vært klarere retningslinjer rundt hvordan data skal
+brukes og beskyttes.
+Det er ikke så lett å definere slike retningslinjer,
+da forskjellige individer, gjerne fra forskjellige kulturer,
+vil ha forskjellige meninger på hva som er greit og ikke.
 
-Dersom selskaper både {{ TODO: skape verdi + sikkerhet = GOODSTUFF }}
+Dersom selskaper både forriker brukeropplevelsen ved bruk av personlig data,
+men også sikrer at dataen ikke kan komme på avveie, så er dette tipp-topp
+i mine øyne.
+Men det å sikre at dataen ikke kommer på avveie,
+det viser seg å være enklere sagt enn gjort.
+For når resursstore teknologigiganter ikke alltid får det til,
+kan det være vanskelig for mindre selskaper å få til riktig,
+og å få dem til å innse viktigheten av dette,
+slik at det blir prioritert.
+
+Ett annet spørsmål er hvordan selskaper skal kunne bruke dataen de innhenter.
+Mine synspunkt på bruk av personlig data for å forbedre brukeropplevelsen regner
+jeg med er ganske klare til nå.
+Selskapene kan også tjene penger på å dele eller selge dataen videre,
+for eksempel til reklameselskaper.
+Dette kan være nyttig for oss, brukerne,
+ved at vi får relevant reklame for ting vi er interessert i.
+Eller det kan føre til målrettet "fake-news" og politiske kampanjer som med
+Cambridge Analytica skandalen.
+Uavhengig av om dataen brukes til relevant reklame eller _ikke helt innafor_
+"reklame",
+kan vi stille spørsmål til om det er riktig at selskaper tjener millioner på
+_vår_ data.
+Vi får ikke noen andel av denne inntekten tilbake,
+bortsett fra kanskje gratis tjenester, da.
+
+Selskaper som Facebook, Twitter og Google tilbyr de fleste tjenestene sine helt
+gratis.  Eller _"gratis"_.
+Vi _"betaler"_ nemlig ved å gi dem data om oss selv,
+som de så kan bruke til å gi oss målrettet reklame.
+Og business modellen går strålene.
+Jeg skulle gjerne kommet med litt eksempler på inntjening, aksjeverdi, etc,
+men dessverre kan jeg ikke de tallene i hodet.
+Og så var det det problemet med at kildelisten er blitt litt lang.
+Uansett, dataen har helt klart en stor forretningsverdi for disse selskapene.
+Da det er _vår_ data de tjener penger på,
+kunne det vert interessant med mer lover, regler, og retningslinjer på hvordan
+det skal kunne gjøres.
+På moralsk vis.
+
+Tenk hvis Facebook lot deg velge mellom å bruke nettsiden gratis,
+eller å betale en månedlig sum,
+men ikke få noe reklame,
+og ikke få noe av dataen din delt med partnere eller reklameselskaper.
+Det kunne vert en interessant lov,
+å gi brukerne valg over hvordan dataen deres skal kunne brukes,
+og tilby alternative løsninger der brukeren ikke vil dele data.
 
 ### Datadrevet beslutningstaking
+
+???
+
+### General Data Protection Regulation
 
 ???
 
@@ -258,6 +317,8 @@ Dersom selskaper både {{ TODO: skape verdi + sikkerhet = GOODSTUFF }}
   most valuable resource is no longer oil, but data.
   Hentet fra [www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data](
   https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data).
+
+* XKCD. (n.d.). xkcd: Privacy Options. Hentet fra [https://xkcd.com/1269/](https://xkcd.com/1269/)
 
 * DPOrganizer. (n.d.). Who owns your personal data under GDPR?.
   Hentet fra [www.dporganizer.com/who-owns-personal-data/](

@@ -17,9 +17,6 @@ Hva med statlig overvåkning?
 I denne teksten skal vi se nærmere på etiske problemstillinger rundt bruk av
 personlig data.
 
-![XKCD #1269 Opinions on internet privacy](https://imgs.xkcd.com/comics/privacy_opinions.png)
-(XKCD, n.d.). Vi har mange ulike syn på personvern på internet.
-
 ### Eierskap
 
 For å se nærmere på hva som er riktig bruk av personlig data er det
@@ -41,6 +38,17 @@ GDPR gir oss, europeere, rett til å eksportere og slette all vår personlige da
 fra nettsider og systemer, ved å spørre selskapet som er ansvarlig for dataen om
 dette.
 I andre land og kulturer er dette uhørt.
+
+### Ulike syn
+
+Noe som gjør bruk av personlig data på internet ekstra interessant,
+er at det finnes så mange ulike syn på hva som er greit og ikke.
+Vi ser nærmere på dette senere i teksten, men jeg føler denne tegneseriestripen
+fra XKCD er en morsom og relevant illustrasjon.
+
+![XKCD #1269 Opinions on internet privacy](https://imgs.xkcd.com/comics/privacy_opinions.png)
+
+(XKCD, n.d.).
 
 ### Statlig overvåkning
 

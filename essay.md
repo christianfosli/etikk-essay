@@ -13,7 +13,7 @@ diverse IT systemer?
 Hvordan skal denne data kunne brukes?
 Er det riktig at store IT selskaper tjener milliarder på målrettet reklame
 grunnet data de har om oss?
-Hva med statlig overvåkning?
+Skal statlig overvåkning kunne brukes for å redusere kriminalitet?
 I denne teksten skal vi se nærmere på etiske problemstillinger rundt bruk av
 personlig data.
 
@@ -43,8 +43,19 @@ I andre land og kulturer er dette uhørt.
 
 Noe som gjør bruk av personlig data på internet ekstra interessant,
 er at det finnes så mange ulike syn på hva som er greit og ikke.
-Vi ser nærmere på dette senere i teksten, men jeg føler denne tegneseriestripen
-fra XKCD er en morsom og relevant illustrasjon.
+Ikke at det er så unikt, da.
+Det finnes få etiske problemstillinger hvor svaret er enten rett eller galt.
+
+Mange trykker impulsivt "OK" eller "Godkjenn" når det kommer en pop-up på
+nettsiden som lyder "For å bruke \<nettside\> samtykker du vår bruk av cookies,
+som vi/våre partnere bruker til \<insert reason here/>".
+Andre slår av alt av scripts, cookies, og alt de kan i nettleseren sin,
+for å unngå å bli sporet på internet.
+Og mange er en plass i mellom.
+
+Vi skal se nærmere på dette senere i teksten, men jeg føler denne tegneseriestripen
+fra XKCD er en morsom og relevant illustrasjon til diskusjonen om bruk av
+personlig data og personvern på internet.
 
 ![XKCD #1269 Opinions on internet privacy](https://imgs.xkcd.com/comics/privacy_opinions.png)
 
@@ -318,6 +329,10 @@ og tilby alternative løsninger der brukeren ikke vil dele data.
 ### General Data Protection Regulation
 
 ???
+
+### Privacy Policy
+
+??? {{ Skriv vague privacy policies vs forståelige enkle }}
 
 ## Kilder
 

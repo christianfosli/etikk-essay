@@ -13,7 +13,9 @@ diverse IT systemer?
 Hvordan skal denne data kunne brukes?
 Er det riktig at store IT selskaper tjener milliarder på målrettet reklame
 grunnet data de har om oss?
-Skal statlig overvåkning kunne brukes for å redusere kriminalitet?
+Skal statlig overvåkning kunne brukes for å redusere kriminalitet? Hva med til
+andre formål?
+
 I denne teksten skal vi se nærmere på etiske problemstillinger rundt bruk av
 personlig data.
 

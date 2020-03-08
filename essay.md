@@ -326,7 +326,69 @@ og tilby alternative løsninger der brukeren ikke vil dele data.
 
 ### Datadrevet beslutningstaking
 
-???
+Datadrevet beslutningstaking kan ses på som et alternativ til moralsk
+beslutningstaking.
+Å ta en datadrevet beslutning vil si at man _bruker data_ til å
+sette mål, identifisere problemer, søke etter og evaluere valg,
+og bestemme handlinger (Wang, 2019).
+Moralsk beslutningstaking, derimot, går ut på å gjøre det man ser på
+som riktig, akseptert og etisk.
+
+Datadrevet beslutningstaking gir oss mange muligheter vi aldri hadde før.
+Fremskritt i AI (Artificial Intelligence / kunstig intelligens),
+i tillegg til økt datakraft,
+gjør det mulig å gjøre gjøre store kalkulasjoner med store mengder data.
+For eksempel selvkjørende biler er ett velkjent eksempel,
+hvor store mengder data brukes til å trene en maskinlæringsalgoritme,
+og så tar bilen beslutninger basert på historisk data.
+
+Datadrevet beslutningstaking brukes også i større grad i andre yrker,
+som til lege og helse -relaterte beslutninger.
+Og etterhvert som maskinlæring og AI teknologi videreutvikles vil vi se mer og
+mer bruk av dette på tvers av yrker og næringer.
+
+En stor fordel med datadrevet beslutningstaking,
+i forhold til moralsk beslutningstaking,
+er at datadrevet beslutningstaking kan automatiseres.
+En PC har ingen formening om hva som er _etisk_.
+Om hva som er _riktig_.
+Men den kan gjøre datadrevne beslutninger.
+Som for eksempel å styre en bil på veien.
+
+For å gjøre datadrevet beslutningstaking kreves naturligvis data.
+Og denne dataen må prosesseres og behandles.
+Her blir det viktig å gjøre etiske vurderinger før man bare "kjører på".
+La oss lage ett eksempel.
+
+Det er ikke utenkelig at statlige virksomheter vil bruke datadrevet
+beslutningstaking til samfunnsrelaterte problemer og offentlige tjenester.
+Det er da også svært sannsynlig at staten bruker tjenester eller konsulenter
+fra kommersielle virksomheter til dataprosessering.
+I så tilfelle må staten være klar over hvilke bekymringer innbyggerne kan ha
+rundt deling av deres data med kommersielle virksomheter.
+Staten må da også påse at disse virksomhetene er til å stole på,
+at de behandler dataen på en sikker måte,
+og at de ikke bruker den til annet en tiltenkt.
+
+Også om dataen skulle behandles kun av statlig ansatte måtte staten allikevel
+sikret seg mot uetisk behandling og korrupsjon.
+Dersom for eksempel en ansatt laster opp konfidensiell data på sosiale medier,
+eller lagrer dataen på en usikker skytjeneste og den deretter kommer på avveie,
+kan det få store negative konsekvenser.
+
+Ansvarlig bruk av data er ikke bare moralsk riktig,
+men også bra business practice.
+
+I tillegg til sikkerhetsrisiko ved at data kommer på avveie,
+får vi også nye risikoer knyttet til gyldigheten og riktigheten til dataen.
+Dette åpner for en ny type _"hacking"_,
+hvor angripere _"saboterer"_ dataen,
+og slik får systemer til å ta _feil_ beslutninger.
+Første gang jeg hørte om dette var nå nylig,
+når artisten Simon Weckert gikk rundt langs gatene Berlin
+med 99 smarttelefoner i en trillebår (Barret, 2020).
+Slik lurte han Google Maps sine algoritmer til å tro det var et stort
+trafikkkork (Barret, 2020).
 
 ### General Data Protection Regulation
 
@@ -349,7 +411,7 @@ og tilby alternative løsninger der brukeren ikke vil dele data.
   Hentet fra [www.dporganizer.com/who-owns-personal-data/](
   https://www.dporganizer.com/who-owns-personal-data/).
 
-* Jonas Skybakmoen. (2018, 20 februar). De sju drøyeste tiltakene: Slik overvåker Kina egne innbyggere i 2018.
+* Skybakmoen, Jonas. (2018, 20 februar). De sju drøyeste tiltakene: Slik overvåker Kina egne innbyggere i 2018.
   _filternyheter_. Hentet fra [https://filternyheter.no/de-sju-droyeste-tiltakene-slik-overvaker-kina-egne-innbyggere-i-2018/](
   https://filternyheter.no/de-sju-droyeste-tiltakene-slik-overvaker-kina-egne-innbyggere-i-2018/).
 
@@ -379,3 +441,15 @@ og tilby alternative løsninger der brukeren ikke vil dele data.
 
 * Wikipedia. (2018). Facebook-Cambridge Analytica Data Scandal.
   Hentet fra [https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)
+
+* Wang, Y. (2019).
+  Is data-driven decision making at odds with moral decision making?
+  A critical review of school leaders’ decision making in the era of school accountability.
+  Values and Ethics in Educational Administration, 
+  Hentet fra [http://3fl71l2qoj4l3y6ep2tqpwra.wpengine.netdna-cdn.com/wp-content/uploads/2019/10/VEEA-142.pdf](
+  http://3fl71l2qoj4l3y6ep2tqpwra.wpengine.netdna-cdn.com/wp-content/uploads/2019/10/VEEA-142.pdf)
+
+* Barret, B. (2020, 2 mars).
+  An artist used 99 phones to fake a google maps traffic jam. _Wired_.
+  Hentet fra [https://www.wired.com/story/99-phones-fake-google-maps-traffic-jam/](
+  https://www.wired.com/story/99-phones-fake-google-maps-traffic-jam/)

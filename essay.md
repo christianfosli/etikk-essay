@@ -392,7 +392,94 @@ trafikkkork (Barret, 2020).
 
 ### General Data Protection Regulation
 
-???
+EU's GDPR lager en rekke lover og regler rundt mye av det vi har snakket om i
+denne teksten.
+
+Jeg tar her for meg litt sitater fra [gdpr-info.eu](gdpr-info.eu) og diskuterer litt rundt det.
+[gdpr-info.eu](gdpr-info.eu) inneholder GDPR lovverket, også kalt Regulation
+2016/679, i PDF format, men forklarer også en del nøkkel-problemstillinger i ett
+litt mer lett-leselig format.
+
+Det er stort sett deler av nøkkel-problemstilling tekstene jeg siterer.
+
+#### Samtykke (Consent)
+
+> Processing personal data is generally prohibited,
+> unless it is expressly allowed by law,
+> or the data subject has consented to the processing.
+> While being one of the more well-known legal bases for processing personal data,
+> consent is only one of six bases mentioned in the General Data Protection Regulation (GDPR).
+> The others are: contract, legal obligations, vital interests of the data subject,
+> public interest and legitimate interest as stated in Article 6(1) GDPR.
+
+(Intersoft Consulting, n.d.-a)
+
+TODO: Skriv om hvordan dette er relevant for etikk
+
+#### Kryptering (Encryption)
+
+> Companies can reduce the probability of a data breach
+> and thus reduce the risk of fines in the future,
+> if they chose to use encryption of personal data.
+> The processing of personal data is naturally associated with a certain degree of risk.
+> Especially nowadays, where cyber-attacks are nearly unavoidable for companies
+> above a given size.
+> Therefore, risk management plays an ever-larger role in IT security
+> and data encryption is suited, among other means, for these companies.
+
+(Intersoft Consulting, n.d.-b)
+
+#### Records of Processing Activities
+
+> The General Data Protection Regulation obligates,
+> as per Art. 30 of the GDPR,
+> written documentation and overview of procedures by which personal data are processed.
+> Records of processing activities must include significant information about data processing,
+> including data categories,
+> the group of data subjects,
+> the purpose of the processing and the data recipients.
+> This must be completely made available to authorities upon request.
+
+(Intersoft Consulting, n.d.-c)
+
+TODO: Skriv om hvordan dette er relevant for etikk
+
+#### Right to be Forgotten
+
+> The right to be forgotten derives from the case Google Spain SL,
+> Google Inc v Agencia Española de Protección de Datos,
+> Mario Costeja González (2014).
+> For the first time, the right to be forgotten is codified and to be found in
+> the General Data Protection Regulation (GDPR) in addition to the right to erasure.
+
+> The correspondingly-named rule primarily regulates erasure obligations.
+> According to this, personal data must be erased immediately where the data are
+> no longer needed for their original processing purpose,
+> or the data subject has withdrawn his consent and there is no other legal
+> ground for processing, the data subject has objected and there are no overriding
+> legitimate grounds for the processing,
+> or erasure is required to fulfil a statutory obligation under the EU law
+> or the right of the Member States.
+> In addition, data must naturally be erased if the processing itself
+> was against the law in the first place.
+
+(Intersoft Consulting, n.d.-d)
+
+TODO: Skriv om hvordan dette er relvant for etikk
+
+#### Right to be Informed
+
+> There is a need for transparency regarding the gathering and use of data in
+> order to allow EU citizens to exercise their right to the protection of personal data.
+> Therefore, the General Data Protection Regulation (GDPR) gives individuals
+> a right to be informed about the collection and use of their personal data,
+> which leads to a variety of information obligations by the controller.
+> The law differentiates between two cases: On the one hand,
+> if personal data is directly obtained from the data subject
+> (Art. 13 of the GDPR) and, on the other hand,
+> if this is not the case (Art. 14 of the GDPR).
+
+(Intersoft Consulting, n.d.-e)
 
 ### Privacy Policy
 
@@ -453,3 +540,21 @@ trafikkkork (Barret, 2020).
   An artist used 99 phones to fake a google maps traffic jam. _Wired_.
   Hentet fra [https://www.wired.com/story/99-phones-fake-google-maps-traffic-jam/](
   https://www.wired.com/story/99-phones-fake-google-maps-traffic-jam/)
+
+* Intersoft Consulting. (n.d.-a). Consent | General Data Protection Regulation.
+  Hentet fra [https://gdpr-info.eu/issues/consent/](https://gdpr-info.eu/issues/consent/)
+
+* Intersoft Consulting. (n.d.-b). Encryption | General Data Protection Regulation.
+  Hentet fra [https://gdpr-info.eu/issues/encryption/](https://gdpr-info.eu/issues/encryption/)
+
+* Intersoft Consulting. (n.d.-c). Records of Processing Activities | General Data Protection Regulation.
+  Hentet fra [https://gdpr-info.eu/issues/records-of-processing-activities/](
+  https://gdpr-info.eu/issues/records-of-processing-activities/)
+
+* Intersoft Consulting. (n.d-d). Right to be Forgotten | General Data Protection Regulation.
+  Hentet fra [https://gdpr-info.eu/issues/right-to-be-forgotten/](
+  https://gdpr-info.eu/issues/right-to-be-forgotten/)
+
+* Intersoft Consulting. (n.d.e). Right to be Informed | General Data Protection Regulation.
+  Hentet fra [https://gdpr-info.eu/issues/right-to-be-informed/](
+  https://gdpr-info.eu/issues/right-to-be-informed/)

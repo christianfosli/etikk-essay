@@ -414,7 +414,30 @@ Det er stort sett deler av nøkkel-problemstilling tekstene jeg siterer.
 
 (Intersoft Consulting, n.d.-a)
 
-TODO: Skriv om hvordan dette er relevant for etikk
+GDPR krever altså samtykke fra brukerne det samles personlig data fra,
+men mindre det det er eksplisitt tillat av en lov (Intersoft Consulting,
+n.d.-a).
+Dette betyr at nettsidene må spørre brukerne om lov før de samler inn og
+behandler deres personlige data.
+
+Dette mener jeg er positivt.
+Det er moralsk å spørre om lov før man gjør noe man er usikker på om noen
+tillater.
+Slike lovverk gjør også at vi,
+brukerne,
+forventer å bli spurt før vår data blir lagret/behandlet.
+Det bidrar dermed til å skape en kultur hvor samtykke er viktig i slike
+tilfeller.
+
+På den andre siden kan brukerne bli lei av at alle nettsidene man går inn på gir
+oss pop-ups vi må godkjenne før vi får brukt nettsiden.
+I verste fall blir det sett på som _unødvendig støy_,
+og kan gjøre oss mindre oppmerksomme på innholdet,
+og dermed kan brukerne bli lurt til å godkjenne vilkår de ikke burde.
+
+Selv om det kan gi en noe dårligere brukeropplevelse ved første sidebesøk,
+mener jeg det er positivt at nettsidene får samtykke før de lagrer og behandler
+personlig data.
 
 #### Kryptering (Encryption)
 
@@ -429,7 +452,18 @@ TODO: Skriv om hvordan dette er relevant for etikk
 
 (Intersoft Consulting, n.d.-b)
 
-TODO: Skriv om hvordan dette er relevant for etikk
+Kryptering av personlig data kan altså redusere risikoen for datainnbrudd
+(Intersoft Consulting, n.d.-b).
+Det sier egentlig seg selv,
+da selv om en angriper skulle få brytt seg inn i databasen,
+vil de ikke kunne bruke dataen til noe om den er kryptert på en sikker måte.
+Beskrivelsen over er litt uklar, da, det er litt vanskelig å vite hvor stort en
+_"given size"_ er og hvilke selskaper dette gjelder.
+Jeg tror _key take-away_ er å kryptere _viktig_ _konfidensiell_ informasjon.
+
+Det finnes eksempler på selskaper som lagrer passord i klartekst.
+Noe som helt klart bryter disse reglene.
+Det ser jeg på som uetisk lagring av konfidensiell data.
 
 #### Records of Processing Activities
 
@@ -444,7 +478,15 @@ TODO: Skriv om hvordan dette er relevant for etikk
 
 (Intersoft Consulting, n.d.-c)
 
-TODO: Skriv om hvordan dette er relevant for etikk
+Her ser vi nettsidene / selskapene må kunne dokumentere hvilken personlig data
+de prosesserer, hvorfor, og deres prosedyrer,
+og de må kunne gi en oversikt over utførte behandlingaktiviteter hvis
+myndighetene ved forespørsel fra myndighetene (Intersoft Consulting, n.d.-c).
+
+Det bidrar til god kultur at selskapene kan dokumentere databehandlingskyeaktiviteter,
+nøyaktig og med årsak for hver aktivitet.
+Dette bidrar til at selskaper ikke lagrer masse personlig data de ikke trenger.
+Det er bra.
 
 #### Right to be Forgotten
 
@@ -467,7 +509,30 @@ TODO: Skriv om hvordan dette er relevant for etikk
 
 (Intersoft Consulting, n.d.-d)
 
-TODO: Skriv om hvordan dette er relvant for etikk
+Dette er viktig!
+På samme måte som det er god moral å spørre om lov før man gjør noe man er
+usikker på om er greit, er det god moral å slutte å gjøre aktiviteten om de man
+spør endrer mening.
+
+Det kan også ødelegge både karrièremuligheter og image om personlig data som
+tilsier noe negativt om en person ligger ute på internet.
+For eksempel relatert til en straffesak / fengselstraff.
+Eller bare et upopulært sitat.
+Eller kanskje noen legger ut ett nakenbilde av en ex-kjæreste.
+En kjent "saying" på nettet er _"what goes online stays online"_.
+Det er ofte en svært dårlig ting.
+Denne GDPR loven hjelper å motvirke dette.
+
+Selv om det vil være vanskelig å slette all informasjon om en hendelse om det
+havner på internet,
+gjør denne loven mye for å få det til.
+
+For eksempel på Facebook kan du slette profilen din;
+da skal også all personidentifiserende informasjon som er knyttet til kontoen
+din bli fjernet fra databasen deres (slettmeg.no, 2019).
+GDPR krever altså tilsvarende funksjonalitet for alle nettsider som samler data om
+europeiske brukere.
+Det trenger dogg ikke å være like brukervennlig og _selvbetjent_ som på Facebook.
 
 #### Right to be Informed
 
@@ -483,11 +548,101 @@ TODO: Skriv om hvordan dette er relvant for etikk
 
 (Intersoft Consulting, n.d.-e)
 
-TODO: Skriv om hvordan dette er relevant for etikk
+Åpenhet rundt lagring og bruk av data bidrar positivt til en åpen og klar
+kultur.
+Jeg tror brukerne viser mye større aksept for lagring og prosessering av
+personlig data når nettsidene de besøker er åpne om hvilken data de
+lagrer/prosesserer og hvorfor.
+Spesielt når dette blir gjort på en klar og tydelig måte.
 
-### Privacy Policy
+Det kan gjerne være lettere sagt enn gjort,
+da dataen gjerne kan brukes i svært komplekse algoritmer,
+og til flere bruksområder.
+Men jeg mener dette er viktig.
+Alt for mye tekniske detaljer trenger ikke være nødvendig å påpeke,
+da det kan gjøre brukerne forvirret og gjøre at de ikke får med seg de
+vesentlige delene.
 
-??? {{ Skriv vague privacy policies vs forståelige enkle }}
+Vi ser i sitatet over at GDPR differensierer mellom data som mottas direkte fra
+brukeren (data subject), og data som mottas på andre måter
+(Intersoft Consulting, n.d.-e).
+Dette er interessant.
+Når dataen mottas direkte fra brukeren kan man informere brukeren om bruken
+direkte og motta samtykke fra brukeren før man går igang.
+Eller, ikke bare _kan man_, _må man_ er mer riktig.
+Men _hva med når dataen ikke mottas direkte fra "data subject"_?
+Da er det ikke akkurat lett å spørre i forkant.
+
+Det står beskrevet en prosedyre for det også.
+Dersom dataen ikke mottas direkte fra "data subject" må han/hun få informasjon i
+løpet av rimelig tid, og senest i løpet av en måned (Intersoft Consulting,
+n.d.-e), står det.
+Informasjonen må komme frem på en presis, klar, forståelig og lett tilgjengelig
+måte, akkurat slik som når dataen mottas direkte fra brukeren (Intersoft
+Consulting, n.d.-e). I tillegg må selskapet som lagrer/behandler dataen også
+informere om hvor dataen kom fra (når den ikke kom fra brukeren direkte)
+(Intersoft Consulting, n.d.-e).
+Det gjøres enkelte unntak hvor det ikke kreves å informere brukeren (data
+subject).
+Det gjelder når å gi slik informasjon er enten umulig eller urimelig dyrt,
+eller når innsamlingen av informasjonen er lovpålagt,
+eller når dataen må forbli konfidensiell grunnet taushetsplikt eller lignende
+(Intersoft Consulting, n.d.-e).
+
+Personlig tenker jeg noen av disse unntakene kan være en uting.
+Jeg er for åpenhet rundt lagring og deling av data,
+og ser ikke for meg det kommer til skade at informasjonen ville deles med meg
+også når dataen min behandles av lovpålagte årsaker.
+Men, de som har skrevet GDPR lovverket har naturligvis brukt mer tid på å sette
+seg inn i dette enn det jeg har.
+Og jeg regner med det er gode grunner til unntakene.
+
+Uansett mener jeg GDPR er en svært positiv ting rundt både å sikre ansvarlig
+bruk av data hvor nettsider samler data om europeiske brukere,
+og også for å få en mer åpen og klar kultur rundt bruk av personlig data.
+Det koster gjerne litt penger for selskapene å implementere reglemagnet,
+men prisene på EU's bøter gjør det nok lite attraktivt å lure seg unna i lengden.
+
+### Personvernerklæring
+
+Nettsider som behandler personopplysninger / personlig data må gi
+informasjon om dette til besøkende.
+Dette gjøres vanligvis ved hjelp av en personvernerklæring.
+Personvernerklæringen inneholder informasjon hvilke data som behandles,
+og hvordan.
+Å behandle data på andre måter en nevnt i personvernerklæringen er ikke bare
+umoralsk, men kan også være ulovlig (Datatilsynet, 2018).
+Og som sagt umoralsk.
+Og moral og etikk har jo mye med hverandre å gjøre,
+så det er jo ganske relevant,
+tenker jeg.
+
+Det er ganske stor forskjell på personvernerklæringer.
+Noen er veldig uklare og generelle,
+mens andre forteller helt konkret hvordan dataen blir behandlet, etc.
+Det kan være fristende for bedrifter og teknologiselskaper å bruke en svært
+uklar og generell personvernverklæring,
+slik at de slipper å holde den oppdatert kontinuerlig når funksjonaliteten
+og derav behov for databehandling endres i applikasjonen.
+Men her må bedriftene tenke seg godt om.
+_For er det egentlig greit å gi informasjon om databehandlingen på en måte som
+brukerne ikke forstår?_
+
+Jeg tenker at informasjon om databehandling og lagring må komme frem på en
+måte som brukerne forstår.
+Noe annet vil være umoralsk.
+
+### Konklusjon
+
+Det er vanskelig å komme med noe klar konklusjon.
+Etiske tolkninger avhenger som sagt av kultur og andre ting.
+Men jeg håper teksten har vekt en del tanker rundt det etiske rundt lagring og
+behandling av personlig data.
+En ting er klart,
+etikk har en stor viktighet mens teknologi og databehandling forbedres videre.
+Svarene er ikke alle klare,
+men problemstillingene må tas i betraktning
+mens innovasjonen fortsetter.
 
 ## Kilder
 
@@ -562,3 +717,11 @@ TODO: Skriv om hvordan dette er relevant for etikk
 * Intersoft Consulting. (n.d.e). Right to be Informed | General Data Protection Regulation.
   Hentet fra [https://gdpr-info.eu/issues/right-to-be-informed/](
   https://gdpr-info.eu/issues/right-to-be-informed/)
+
+* Datatilsynet. (2018, 8 juni). Hvordan skal virksomheten gi informasjon?
+  Hentet fra
+  [https://www.datatilsynet.no/rettigheter-og-plikter/virksomhetenes-plikter/gi-informasjon/informasjon-og-apenhet/hvordan-skal-virksomheten-gi-informasjon/](
+  https://www.datatilsynet.no/rettigheter-og-plikter/virksomhetenes-plikter/gi-informasjon/informasjon-og-apenhet/hvordan-skal-virksomheten-gi-informasjon/)
+
+* Slettmeg.no. (2019, 7 februar). Slik sletter du deg fra Facebook.
+  Hentet fra [https://slettmeg.no/veiledninger/slik-sletter-du-deg-fra-facebook](https://slettmeg.no/veiledninger/slik-sletter-du-deg-fra-facebook)

@@ -429,6 +429,8 @@ TODO: Skriv om hvordan dette er relevant for etikk
 
 (Intersoft Consulting, n.d.-b)
 
+TODO: Skriv om hvordan dette er relevant for etikk
+
 #### Records of Processing Activities
 
 > The General Data Protection Regulation obligates,
@@ -480,6 +482,8 @@ TODO: Skriv om hvordan dette er relvant for etikk
 > if this is not the case (Art. 14 of the GDPR).
 
 (Intersoft Consulting, n.d.-e)
+
+TODO: Skriv om hvordan dette er relevant for etikk
 
 ### Privacy Policy
 

@@ -1,3 +1,10 @@
+Navn: Christian Fosli
+Studentnummer: 244113
+Fag: TEKBAV (essay)
+Emne: Etikk
+
+----
+
 Data er den nye oljen, men hva med etikken?
 ===========================================
 
@@ -263,7 +270,6 @@ Jeg lærer mye av å lese, og å gjenfortelle andres meninger og poeng.
 Og jeg har ikke kunnskap nok om emnet til å få ned 5000 ord på papiret kun fra
 egne tanker rundt dette.
 Det tror jeg de færreste har.
-\rant
 
 Tilbake til Fake-News på Facebook.
 Siden Cambridge Analytica skandalen har Facebook iverksatt tiltak for å unngå

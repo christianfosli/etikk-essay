@@ -1,6 +1,9 @@
 Navn: Christian Fosli
+
 Studentnummer: 244113
+
 Fag: TEKBAV (essay)
+
 Emne: Etikk
 
 ----

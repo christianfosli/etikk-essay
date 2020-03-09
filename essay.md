@@ -40,6 +40,10 @@ GDPR gir oss, europeere, rett til å eksportere og slette all vår personlige da
 fra nettsider og systemer, ved å spørre selskapet som er ansvarlig for dataen om
 dette.
 I andre land og kulturer er dette uhørt.
+Det er noe fint med åpenhet, klarhet og innsyn i lagring og prosessering av
+personlig data.
+Men det blir litt tidlig i teksten å gå for mye detalj allerede nå.
+Mer detaljer kommer!
 
 ### Ulike syn
 
@@ -247,12 +251,19 @@ reklamer ville være mest effektive for en bestemt person i ett bestemt området
 Og flesteparten av personene som fikk dataen sin utnyttet hadde aldri
 gitt samtykke til det!
 
-Nå ser jeg forresten at jeg er på grensen til å ha for lang kildeliste.
-Den skulle nemlig være på maks 5% av teksten, circa en halv side.
-Dermed blir resten av teksten litt mer mine meninger,
-og litt mindre gjenfortellinger/ideer/historier.
+Nå ser jeg forresten at jeg begynner å nærme meg grensen til å ha for lang
+kildeliste.
+Den skulle nemlig være på maks ca 5% av teksten.
+Dermed prøver jeg å ha litt mer mine meninger,
+og litt mindre gjenfortellinger/ideer/historier i resten av teksten.
 Det er forsåvidt rom for det også i ett essay.
 De er jo typisk både saklige, og kan inneholde en del personlige meninger.
+Jeg føler allikevel det er nyttig å referere til andre.
+Jeg lærer mye av å lese, og å gjenfortelle andres meninger og poeng.
+Og jeg har ikke kunnskap nok om emnet til å få ned 5000 ord på papiret kun fra
+egne tanker rundt dette.
+Det tror jeg de færreste har.
+\rant
 
 Tilbake til Fake-News på Facebook.
 Siden Cambridge Analytica skandalen har Facebook iverksatt tiltak for å unngå
@@ -630,7 +641,7 @@ brukerne ikke forstår?_
 
 Jeg tenker at informasjon om databehandling og lagring må komme frem på en
 måte som brukerne forstår.
-Noe annet vil være umoralsk.
+Noe annet vil være umoralsk, tenker jeg.
 
 ### Konklusjon
 

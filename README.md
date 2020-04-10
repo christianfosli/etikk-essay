@@ -29,7 +29,3 @@ Etikk Essay
 > 
 > Hvis du ikke får godkjent
 > Skulle du ikke få essayet godkjent fordi det enten ikke oppfylte kravet til antall ord, ikke var godt nok eller var utenfor rammen for teama, får du en ny sjanse til å forbedre det (med kort frist).
-> 
-> Hilsen
-> 
-> Per Arne Bjørkum
